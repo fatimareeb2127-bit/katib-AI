@@ -2,11 +2,6 @@
 
 Katib AI is a responsive AI-powered writing, editing, and academic research workspace built with Next.js. It combines a rich-text document editor, local document management, AI writing tools, research assistance, citation management, file processing, and customizable interfaces in one application.
 
-## Screenshot
-
-![Katib AI workspace preview](screenshot/home.png)
-![Theme](screenshot/theme.png)
-![Katib AI Writing Tool preview](screenshot/writinigtool.png)
 
 ## Highlights
 
@@ -23,6 +18,12 @@ Katib AI is a responsive AI-powered writing, editing, and academic research work
 - Light, dark, and system theme modes
 - Responsive desktop, tablet, and mobile layouts
 - Reduced-motion support
+## Screenshot
+
+![Katib AI workspace preview](screenshot/home.png)
+![Theme](screenshot/theme.png)
+![Katib AI Writing Tool](screenshot/writingtool.png)
+
 
 ## Application areas
 
