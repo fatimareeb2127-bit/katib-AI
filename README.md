@@ -4,7 +4,9 @@ Katib AI is a responsive AI-powered writing, editing, and academic research work
 
 ## Screenshot
 
-![Katib AI workspace preview](./docs/katib-ai-preview.png)
+![Katib AI workspace preview](screenshot/home.png)
+![Theme](screenshot/theme.png)
+![Katib AI Writing Tool preview](screenshot/writinigtool.png)
 
 ## Highlights
 
